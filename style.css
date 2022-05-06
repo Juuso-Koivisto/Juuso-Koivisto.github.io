@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(31, 31, 31);
+}
+
+.rectangle {
+    height: 90px;
+    width: 1905px;
+    background-color: rgb(46, 46, 46);
+}
+
+.center {
+    margin: auto;
+    padding: 8px;
+}
